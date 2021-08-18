@@ -33,3 +33,15 @@ Lerna 使用
 全局安装  yarn global add lerna
 初始化   lerna init
 发布  lerna publish
+
+
+
+安装组件测试环境
+安装依赖
+Vue Test Utils
+Jest
+vue-jest
+babel-jest
+
+安装：
+yarn add jest @vue/test-utils vue-jest babel-jest -D -W
